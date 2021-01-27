@@ -1,3 +1,5 @@
+**This Fork includes a Profile Manager friendly com.apple.TCC.configuration-profile-policy.plist**
+
 # Community PPPC ScreenRecording Profile
 This is a management profile for MDM of all the currently known apps that use ScreenRecording on macOS.
 On macOS 11, without an MDM payload, ScreenRecording Privacy rights are only interactable by users with admin rights. For establishments that have non-admin user populations, this MDM payload can be delivered to allow the user to allow the application to "record" the screen.
