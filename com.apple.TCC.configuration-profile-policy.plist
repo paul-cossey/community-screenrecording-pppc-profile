@@ -17,6 +17,8 @@
 				<string>com.apple.Terminal</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -29,6 +31,8 @@
 				<string>com.bluejeansnet.Blue</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -41,6 +45,8 @@
 				<string>us.zoom.xos</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -53,6 +59,8 @@
 				<string>com.microsoft.teams</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -65,6 +73,8 @@
 				<string>com.cisco.webexmeetingsapp</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -77,6 +87,8 @@
 				<string>com.screenconnect.client.access</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -89,6 +101,8 @@
 				<string>com.cisco.Jabber</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -101,6 +115,8 @@
 				<string>com.teamviewer.TeamViewer</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -113,6 +129,8 @@
 				<string>com.teamviewer.TeamViewerHost</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -125,6 +143,8 @@
 				<string>com.microsoft.Powerpoint</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -137,6 +157,8 @@
 				<string>com.teamviewer.TeamViewerQS</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -149,6 +171,8 @@
 				<string>com.microsoft.SkypeForBusiness</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -161,6 +185,8 @@
 				<string>com.agilebits.onepassword7</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -173,6 +199,8 @@
 				<string>com.tinyspeck.slackmacgap</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -185,6 +213,8 @@
 				<string>com.bomgar.bomgar-rep-hcl</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -197,6 +227,8 @@
 				<string>com.logmein.rescue</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -209,6 +241,8 @@
 				<string>org.mozilla.firefox</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -221,6 +255,8 @@
 				<string>com.realvnc.vncserver_service</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -233,6 +269,8 @@
 				<string>com.vmware.fusion</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -245,6 +283,8 @@
 				<string>com.hnc.Discord</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -257,6 +297,8 @@
 				<string>com.appersian.hiddenme</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -269,6 +311,8 @@
 				<string>com.logmein.g2ax.customer</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -281,6 +325,8 @@
 				<string>com.skitch.skitch</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -293,6 +339,8 @@
 				<string>com.electron.8x8---virtual-office</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -305,6 +353,8 @@
 				<string>com.google.Chrome</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -317,6 +367,8 @@
 				<string>com.nomachine.nxdock</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -329,6 +381,8 @@
 				<string>com.amazon.Amazon-Chime</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -341,6 +395,8 @@
 				<string>se.razola.Glui2</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -353,6 +409,8 @@
 				<string>com.TechSmith.Snagit2020</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -365,6 +423,8 @@
 				<string>com.splashtop.Splashtop-Streamer</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -377,6 +437,8 @@
 				<string>com.apple.QuickTimePlayerX</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -389,6 +451,8 @@
 				<string>com.helloresolven.GIF-Brewery-3</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -401,6 +465,8 @@
 				<string>com.bomgar.bomgar-scc</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -413,6 +479,8 @@
 				<string>com.stclairsoft.DefaultFolderX5</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -425,6 +493,8 @@
 				<string>net.telestream.screenflow9</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -437,6 +507,8 @@
 				<string>com.ringcentral.glip</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -449,6 +521,8 @@
 				<string>com.filewave.filewave-vnc-server</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -461,6 +535,8 @@
 				<string>com.microsoft.edgemac</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -473,6 +549,8 @@
 				<string>/Library/Application Support/ISLAlwaysOn/ISLAlwaysOn</string>
 				<key>IdentifierType</key>
 				<string>path</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -485,6 +563,8 @@
 				<string>/Library/Application Support/ISLAlwaysOn/ISLAlwaysOnMonitor</string>
 				<key>IdentifierType</key>
 				<string>path</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -497,6 +577,8 @@
 				<string>/Library/Application Support/ISLAlwaysOn/issc_daemon</string>
 				<key>IdentifierType</key>
 				<string>path</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -509,6 +591,8 @@
 				<string>com.loom.desktop</string>
 				<key>IdentifierType</key>
 				<string>path</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -521,6 +605,8 @@
 				<string>com.techsmith.camtasia2020</string>
 				<key>IdentifierType</key>
 				<string>path</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -533,6 +619,8 @@
 				<string>org.safeexambrowser.Safe-Exam-Browser</string>
 				<key>IdentifierType</key>
 				<string>path</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -545,6 +633,8 @@
 				<string>at.obdev.LaunchBar</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -557,6 +647,8 @@
 				<string>com.fasthatchapps.gifgrabberosx</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -569,6 +661,8 @@
 				<string>com.gifox.gifox2</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -581,6 +675,8 @@
 				<string>com.hegenberg.BetterTouchTool</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -593,6 +689,8 @@
 				<string>com.logmein.GoToMeeting</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -605,6 +703,8 @@
 				<string>com.surteesstudios.Bartender</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Authorization</key>
@@ -617,6 +717,50 @@
 				<string>com.webex.meetingmanager</string>
 				<key>IdentifierType</key>
 				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Authorization</key>
+				<string>AllowStandardUserToSetSystemService</string>
+				<key>CodeRequirement</key>
+				<string>anchor apple generic and identifier "com.displaylink.DisplayLinkUserAgent" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "73YQY62QM3")</string>
+				<key>Comment</key>
+				<string>DisplayLink Manager</string>
+				<key>Identifier</key>
+				<string>com.displaylink.DisplayLinkUserAgent</string>
+				<key>IdentifierType</key>
+				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Authorization</key>
+				<string>AllowStandardUserToSetSystemService</string>
+				<key>CodeRequirement</key>
+				<string>identifier "com.aetherpal.mac.remotecontrol" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = V4Y7PP8KCJ</string>
+				<key>Comment</key>
+				<string>Workspace ONE Assist</string>
+				<key>Identifier</key>
+				<string>com.aetherpal.mac.remotecontrol</string>
+				<key>IdentifierType</key>
+				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Authorization</key>
+				<string>AllowStandardUserToSetSystemService</string>
+				<key>CodeRequirement</key>
+				<string>identifier "com.barco.clickshare" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = P6CDJZR997</string>
+				<key>Comment</key>
+				<string>Barco Clickshare</string>
+				<key>Identifier</key>
+				<string>com.barco.clickshare</string>
+				<key>IdentifierType</key>
+				<string>bundleID</string>
+				<key>StaticCode</key>
+				<false/>
 			</dict>
 		</array>
 	</dict>
